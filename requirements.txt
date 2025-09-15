@@ -1,0 +1,5 @@
+﻿ahk==1.8.4
+ahk-binary==2023.9.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+regex==2025.9.1
