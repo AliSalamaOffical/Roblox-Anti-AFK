@@ -1,9 +1,8 @@
-import sys,traceback,os
+import sys,traceback
 import time
 from ahk import AHK
 import re
 ahk = AHK(version="v2")
-
 class Window():
     def __init__(self):
         super().__init__()
